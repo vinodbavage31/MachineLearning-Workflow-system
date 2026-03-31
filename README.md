@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 Machine Learning Workflow System
+# Machine Learning Workflow System
 ### Production-Grade House Price Prediction Pipeline
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -19,7 +19,7 @@
 
 </div>
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Why This Project?](#-why-this-project)
@@ -44,17 +44,17 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **MachineLearning-Workflow-System** is an industry-standard machine learning project demonstrating **production-grade ML pipeline architecture** for house price prediction using the Ames Housing Dataset. Unlike traditional Jupyter notebook-based projects, this implementation showcases **clean code principles**, **modular design**, and **enterprise-level workflow practices** used in real-world ML systems.
 
-### 🎓 Educational Focus
+### Educational Focus
 
 This project serves as a **comprehensive learning resource** for aspiring ML engineers and data scientists who want to understand how to build **scalable, maintainable, and production-ready** machine learning systems.
 
 ---
 
-## 💡 Why This Project?
+## Why This Project?
 
 ### Industry-Standard Practices
 
@@ -76,13 +76,13 @@ This project serves as a **comprehensive learning resource** for aspiring ML eng
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏗️ Architecture
+### Architecture
 - **Modular Pipeline Design**
 - **OOP-Based Components**
 - **Configuration-Driven Workflow**
@@ -111,7 +111,7 @@ This project serves as a **comprehensive learning resource** for aspiring ML eng
 </td>
 <td width="50%">
 
-### 🚀 Deployment Ready
+### Deployment Ready
 - **Sample Prediction Scripts**
 - **Model Serialization**
 - **Inference Pipeline**
@@ -164,7 +164,7 @@ This project serves as a **comprehensive learning resource** for aspiring ML eng
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -399,7 +399,7 @@ The Linear Regression model trained on the Ames Housing Dataset achieves:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! This project is designed to help others learn industry-standard ML workflows.
 
