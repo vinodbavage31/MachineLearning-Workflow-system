@@ -102,7 +102,7 @@ This project serves as a **comprehensive learning resource** for aspiring ML eng
 <tr>
 <td width="50%">
 
-### 📊 Data Management
+### Data Management
 - **Data Ingestion Pipeline**
 - **Feature Engineering Steps**
 - **Data Validation**
@@ -359,7 +359,7 @@ MachineLearning-Workflow-system/
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 The Linear Regression model trained on the Ames Housing Dataset achieves:
 
